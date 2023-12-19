@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor web e estudante de Python para fins de hacking, usuario de linux e uma apreciador de gostosas.</p>
+<p align="left">Sou desenvolvedora web e estudante de Python para fins de hacking, usuario de linux e uma apreciadora de gostosas.</p>
 
 ###
 
