@@ -6,8 +6,7 @@
 
 ###
 
-<img src="https://i.gifer.com/origin/58/5897353bbeca006545aae6c083436187.gif](https://cdn.discordapp.com/attachments/1180437457267851326/1186599103120019557/11264001_862eb.gif" alt="Gif animado">
-
+<img src="https://cdn.discordapp.com/attachments/1180437457267851326/1186599103120019557/11264001_862eb.gif" alt="Gif animado">
 
 
 ###
@@ -15,7 +14,6 @@
 <h2 align="left">Eu programo com</h2>
 
 <div align="left">
-    <img src="https://cdn.discordapp.com/attachments/1181582978594373643/1182412762257825802/Sem_titulo.png?ex=65849ab2&is=657225b2&hm=f0125dc10c217d8c2c92a8fbeea3daba57757066d89fba1ea487b05605aaf2e6" height="40" alt="HTML logo"  />
   </a>
   <img width="12" />
   <a href="https://media.discordapp.net/attachments/1181582978594373643/1182154962826960907/Sem_titulo.jpg?ex=6583aa9a&is=6571359a&hm=444d7e2ccf7d83af0e2c6278f012680969d4d0b74b2253d2fc61f0d263adac94&=&format=webp">
